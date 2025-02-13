@@ -12,3 +12,4 @@ The **Alumni-Student Connect Platform** is a web-based application designed to b
 - **Event Announcements**: Alumni reunions, webinars, and networking events.
 - **Messaging System**: Direct communication between students and alumni.
 
+For the full code look into GDSC File
